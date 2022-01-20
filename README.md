@@ -3,7 +3,7 @@
 
 
 
-Este curso esta disponível gratuitamente no link:
+O curso esta disponível gratuitamente no link:
 
 https://cs50.harvard.edu/
 
